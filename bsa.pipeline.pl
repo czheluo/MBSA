@@ -100,7 +100,7 @@ if ($step == 5 ) {
 	`$job`;
 	print Log "$job\tdone!\n";
 	print Log "########################################\n";
-	print Log "Calculated G¡¯ Done and elapsed time : ",time()-$time,"s\n";
+	print Log "Calculated GÂ¡Â¯ Done and elapsed time : ",time()-$time,"s\n";
 	print Log "########################################\n";
 	$step++ if ($step ne $stop);
 }
@@ -156,10 +156,8 @@ sub USAGE {#
 Contact:        meng.luo\@majorbio.com;
 Script:			$Script
 Description:
-	
 	eg:
-	perl  
-
+	perl  $Script
 Usage:
   Options:
 	-vcf   pop.final.vcf
