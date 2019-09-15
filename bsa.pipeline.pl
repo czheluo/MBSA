@@ -167,14 +167,14 @@ Usage:
 	-bid  bulk name C,D
 	-out out dir 
 	-bs    bulk size default was 30
-    -ws window size default was 1M
+    	-ws window size default was 1M
 	-pta pemutation test confidence interval
 	-ptb pemutation test confidence interval
 	-tgl  total genetic length (default was 2000)
-    -bs Set N to be the number of individuals in the mutant pool
+    	-bs Set N to be the number of individuals in the mutant pool
 	-step which step you want 
 	-stop control the step 
-    -h      Help
+    	-h      Help
 
 USAGE
         print $usage;
