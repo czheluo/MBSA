@@ -116,7 +116,7 @@ sub ABSOLUTE_DIR #$pavfile=&ABSOLUTE_DIR($pavfile);
 
 sub USAGE {#
         my $usage=<<"USAGE";
-Contact:        long.huang\@majorbio.com;
+Contact:        czheluo\@gmail.com
 Script:			$Script
 Description:
 	fq thanslate to fa format

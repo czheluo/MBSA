@@ -161,7 +161,7 @@ sub USAGE {#
 	my $usage=<<"USAGE";
 Description: 
 Version:  $Script
-Contact: long.huang
+Contact: czheluo\@gmail.com
 
 Usage:
   Options:
