@@ -20,7 +20,7 @@ Bulked Segregant RNA-Seq (BSR-Seq)
 
 
 ## Installation 
-Polymap pipeline depends on some R packages, before using that make sure you alread install these packages :
+Polymap pipeline depends on some R packages, before using it make sure you alread install these packages :
 
 <!-- install packages -->
 
