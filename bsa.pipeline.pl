@@ -13,7 +13,7 @@ GetOptions(
 	"vcf:s"=>\$vcf,
 	"ann:s"=>\$ann,
 	"pid:s"=>\$pid,
-    "bid:s"=>\$bid,
+    	"bid:s"=>\$bid,
 	"out:s"=>\$out,
 	"pta:s"=>\$pta,
 	"ptb:s"=>\$ptb,
@@ -153,11 +153,9 @@ sub ABSOLUTE_DIR #$pavfile=&ABSOLUTE_DIR($pavfile);
 
 sub USAGE {#
         my $usage=<<"USAGE";
-Contact:        meng.luo\@majorbio.com;
+Contact:       czheluo\@gmail.com
 Script:			$Script
 Description:
-	eg:
-	perl  $Script
 Usage:
   Options:
 	-vcf   pop.final.vcf
