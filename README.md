@@ -42,7 +42,7 @@ library(gridExtra)
 ```
 ### USAGE
 
-```linux
+```perl
 $perl bsa.pipeline.pl
 Contact:        czheluo@gmail.com
 Script:                 bsa.pipeline.pl
