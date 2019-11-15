@@ -84,5 +84,5 @@ An empirical Bayesian approach was used to estimate, for each SNP, the condition
 
 2.Inputs
 
-The main input file is the VCF file which contains genomic variants for  two bulks and parental bulks, and your species genome annotation (blast to GO, KEGG, interproscan, NT/NR etc.). For the genomic variant calling, I'd love to recommendate using GATK.
+The main input file is the VCF file which contains genomic variants for  two bulks and parental bulks, and your species genome annotation (blast to GO, KEGG, interproscan, NT/NR etc.). For the genomic variant calling, for WGS, I'd love to recommendate using [GATK](https://software.broadinstitute.org/gatk/), and RNAseq you can just using the [samtools](http://samtools.sourceforge.net/)
 
