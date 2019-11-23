@@ -47,8 +47,7 @@ $perl bsa.pipeline.pl
 Contact:        czheluo@gmail.com
 Script:                 bsa.pipeline.pl
 Description:
-        eg:
-        perl  bsa.pipeline.pl
+        Multple methods for BSA Pipeline 
 Usage:
   Options:
         -vcf   pop.final.vcf
