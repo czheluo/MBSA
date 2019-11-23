@@ -155,7 +155,8 @@ sub USAGE {#
         my $usage=<<"USAGE";
 Contact:       czheluo\@gmail.com
 Script:			$Script
-Description:
+Description: 
+	Multple methods for BSA Pipeline 
 Usage:
   Options:
 	-vcf   pop.final.vcf
